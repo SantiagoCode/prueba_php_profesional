@@ -1,0 +1,13 @@
+{
+    "name": "santiago-salazar/mandado-php-andres",
+    "description": "este es un mini proyecto de radikal dirigido por andres eduardo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Santiago",
+            "email": "santiagosalazar.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
